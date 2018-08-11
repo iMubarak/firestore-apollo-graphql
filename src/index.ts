@@ -102,7 +102,7 @@ const server = new ApolloServer({
   typeDefs,
   resolvers,
   engine: {
-    apiKey: "<APOLLO ENGINE API KEY HERE>"
+    apiKey: 'service:iMubarak-9311:t6QOqqHBaAou1NEbmNM_UQ'
   },
   introspection: true
 });
