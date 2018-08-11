@@ -8,8 +8,8 @@
     },
     "main": "lib/index.js",
     "dependencies": {
-        "apollo-server": "^2.0.0-rc.8",
-        "firebase-admin": "^5.12.1",
+        "apollo-server": "^2.0.0",
+        "firebase-admin": "^6.0.0",
         "graphql": "^0.13.2",
         "graphql-tag": "^2.9.2"
     },
