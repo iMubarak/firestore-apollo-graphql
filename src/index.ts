@@ -103,6 +103,9 @@ const server = new ApolloServer({
   resolvers,
   engine: {
     apiKey: 'service:iMubarak-9311:t6QOqqHBaAou1NEbmNM_UQ'
+=======
+    apiKey: "service:iMubarak-9311:t6QOqqHBaAou1NEbmNM_UQ"
+>>>>>>> be60774bbc7828e9479de558a8d76d377072dc98
   },
   introspection: true
 });
